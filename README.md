@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hello! My name is Camillia Hanaan Amin. 
 
-<!--
-**chamin19/chamin19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 I am a 4th year student at Toronto Metropolitan University, pursuing a Bachelor of Science in Computer Science and a minor in Cyber Studies. 
 
-Here are some ideas to get you started:
+🌱 I am interested in learning about AI and Machine Learning and its applications in Cyber Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ I am currently working on a web-based application using AngularJS for a non-profit organization and AI-based project for removing PII from text.
+
+⚡ Learn more about my skills, experiences, and project on [my website](https://chamin19.github.io/).
+
+### Profile Statistics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chamin19&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamin19&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
