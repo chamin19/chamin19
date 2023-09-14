@@ -4,7 +4,7 @@
 
 🌱 I am interested in learning about AI and Machine Learning and its applications in Cyber Security.
 
-⚙️ I am currently working on a web-based application using AngularJS for a non-profit organization and AI-based project for removing PII from text.
+⚙️ I am currently working on a web-based management system using AngularJS for a non-profit organization and AI-based project for removing PII from text.
 
 ⚡ Learn more about my skills, experiences, and project on [my website](https://chamin19.github.io/).
 
