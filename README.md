@@ -4,7 +4,7 @@
 
 🌱 I am interested in learning about AI and Machine Learning and its applications in Cyber Security.
 
-⚙️ I am currently working on a web-based management system using AngularJS for a non-profit organization and machine learning/cyber security-based web application.
+⚙️ I am currently working on a full-stack productivity tool that uses Angular, Node.js, Express, and GraphQL.
 
 ⚡ Learn more about my skills, experiences, and project on [my website](https://chamin19.github.io/).
 
