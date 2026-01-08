@@ -4,6 +4,6 @@
 
 🌱 I am interested in developing technology for healthcare, education and social good.
 
-⚙️ I am currently working on an AI-based app that helps people analyze unhealthy patterns in their relationships.
+⚙️ I am currently working on an app that gamifies the writing experience to promote literacy skill development for kids. 
 
 ⚡ Learn more about my skills, experiences, and projects on [my website](https://ch-amin.netlify.app/).
